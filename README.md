@@ -46,3 +46,9 @@ The weather data is retrieved from the [OpenWeatherMap API](https://openweatherm
    ```bash
    git clone https://github.com/yourusername/weather-service.git
    cd weather-service
+
+
+### Swagger url
+http://localhost:8080/swagger-ui/swagger-ui/index.html#/weather-controller/getWeather
+   
+   
